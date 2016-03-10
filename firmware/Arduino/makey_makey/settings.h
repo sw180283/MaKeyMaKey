@@ -40,7 +40,7 @@ int keyCodes[NUM_INPUTS] = {
   MOUSE_MOVE_LEFT,    // pin A3
   MOUSE_MOVE_RIGHT,   // pin A2
   MOUSE_LEFT,         // pin A1
-  MOUSE_RIGHT         // pin A0
+  KEY_RIGHT_CTRL      // pin A0
 };
 
 ///////////////////////////
